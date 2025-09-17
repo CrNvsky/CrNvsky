@@ -1,5 +1,5 @@
 # 💫 About Me:
-###👋 Hi, I’m CrNvsky
+##👋 Hi, I’m CrNvsky
 <br>I’m a Computer Science (AI) student, project manager, and creative producer who enjoys turning ideas into real projects.  <br><br>
 ###🚀 Right now I’m working on STUUUD (a social-learning platform for students) and my previous project was Legend Beach (a booking web app).  <br>I also experiment with indie game concepts in my free time.  <br><br>
 ###💻 My background is in project management and web design, with hands-on work in Next.js, FastAPI, and SQL.  <br>I care less about “perfect code” and more about building things that actually work and feel right.  <br><br>
