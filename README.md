@@ -1,7 +1,7 @@
 # 💫 About Me:
 <b>👋 Hi, I’m CrNvsky</b>
 <br>I’m a Computer Science (AI) student, project manager, and creative producer who enjoys turning ideas into real projects.  <br><br>
-<b>🚀 Right now I’m working on </b> STUUUD (a social-learning platform for students) and my previous project was Legend.BEACH (a booking web app).  <br>I also experiment with indie game concepts in my free time.  <br><br>
+<b>🚀 Right now I’m working on </b> BRAK (Small indie-game in UE5) and my previous project was Legend.BEACH (a booking web app).  <br>I also experiment with web concepts in my free time.  <br><br>
 <b>💻 My background is in</b> project management and web design, with hands-on work in Next.js, FastAPI, and SQL.  <br>I care less about “perfect code” and more about building things that actually work and feel right.  <br><br>
 <b>📚 Always pushing myself</b> to learn new tech and improve how I run projects, from planning to delivery.  <br><br>
 <b>⚡ Fun fact:</b> I often switch between coding, managing, and concept-building without noticing the context change.
